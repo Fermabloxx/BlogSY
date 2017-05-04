@@ -1,8 +1,8 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "Our Project",
-  "author": "Petr Tichy",
+  "description": "Blog SY",
+  "author": "LFF",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^2.2.0",
